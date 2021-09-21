@@ -1,0 +1,13 @@
+{
+  "name": "js-academlo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Jhon Steven Saavedra",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  },
+  "scripts": {
+    "dev": "nodemon ."
+  }
+}
